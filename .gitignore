@@ -1,0 +1,17 @@
+# Data — never commit (licensed H&M Kaggle dataset, large files)
+*.csv
+*.xlsx
+*.parquet
+data/
+
+# Power BI temp / cache files
+*.pbix.tmp
+*~$*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
