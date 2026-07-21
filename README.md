@@ -24,7 +24,9 @@ First, the price field is **normalised, not currency**. H&M released spend as a 
 
 Second, the full dataset is large — 31.8M transactions across 1.36M customers — and I did not analyse all of it. I built a **200,000-customer random sample with full purchase histories** (4.67M transactions) and checked it against the population before using it (see Judgment calls). Working on a validated sample rather than the full data was a deliberate choice, and the percentages generalise because the sample was checked, not assumed.
 
-<!-- VISUAL SLOT: overview dashboard page here (the paradox headline + lifecycle hero). Add a second image of the value×churn combo chart so the 74%→6.4% decline is visible. Save to /assets and reference as ![Dashboard](assets/overview.png). To be added in final pass. -->
+![Overview dashboard — the churn paradox and customer lifecycle](DASHBOARD/HnM%20Screenshot%2001.png)
+
+*The 4-page Power BI dashboard. [View the full deck as a PDF](DASHBOARD/HnM%20DASHBOARD.pdf).*
 
 ## The data
 
