@@ -59,6 +59,8 @@ On the surface, 45% churn looks like a business losing half its value. It isn't.
 
 When customers are split into spend deciles and churn is measured within each, the number moves enormously: **churn falls from 74% in the lowest spend decile to 6.4% in the highest.** The customers most likely to leave are the ones who spend least. The customers who generate the revenue barely move.
 
+![Churn falls as customer value rises, across spend deciles](DASHBOARD/HnM%20Screenshot%2003.png)
+
 So the 45% headline counts people, not money. Weighting each decile's churn by the revenue it carries gives the number that actually matters: **17.9% of revenue is at risk, against 45% of customers.** Most of the churn sits among customers who were contributing very little to begin with.
 
 That changes where retention spend should go — from *reduce customer losses* to *protect revenue at risk* — and those point at different customers.
